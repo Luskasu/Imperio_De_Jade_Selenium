@@ -1,0 +1,38 @@
+{
+    "hanyo": {
+      "nome" : "Hanyo",
+      "atributos":{
+        "car": 4,
+        "int":2,
+        "sab": -2
+      },
+      "habilidades":[
+        "Arcano",
+        "Brincar com os Sentimentos",
+        "Espírito Livre",
+        "Poder Salvador"
+      ]
+    },
+
+    "henge": {
+      "nome" : "Henge",
+      "atributos":{
+        "des": 4,
+        "sab":2,
+        "for": -2
+      },
+      "habilidades":[
+        "Animal",
+        "Forma Animal",
+        "Movimento Especial",
+        "Ataque Natural",
+        "Agilidade Animal",
+        "Faro",
+        "Visão na Penumbra"
+      ]
+    }
+}
+
+
+
+  
